@@ -1,4 +1,4 @@
-__New Work: [Boats 5](https://github.com/toddheasley/boats)__
+### New Work: [Boats 5](https://github.com/toddheasley/boats)
 
 [![](https://toddheasley.github.io/boats/boats-app.png)](https://github.com/toddheasley/boats)
 
