@@ -1,4 +1,4 @@
-### New Work
+__New Work__
 
 [![](https://toddheasley.github.io/boats/boats-app.png)](https://github.com/toddheasley/boats)
 
