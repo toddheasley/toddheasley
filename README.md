@@ -1,4 +1,4 @@
-### [Snap](https://github.com/toddheasley/snap)
+### [`Snap`](https://github.com/toddheasley/snap)
 
 [![](https://toddheasley.github.io/snap/camera.png)](https://github.com/toddheasley/snap)
 
