@@ -1,9 +1,9 @@
 # [Boats 5](https://github.com/toddheasley/boats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://toddheasley.com/boats/boats-watch.png">
-  <img src="https://toddheasley.com/boats/boats-watch.png">
-</picture> 
+[<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://toddheasley.com/boats/boats-mac-dark.png">
+  <img src="https://toddheasley.com/boats/boats-mac.png">
+</picture>](https://github.com/toddheasley/boats)
 
 A friendly, Apple-native companion to [cascobaylines.com](https://cascobaylines.com)
 
