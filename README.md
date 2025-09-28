@@ -1,10 +1,10 @@
-# [Boats 5](https://github.com/toddheasley/boats)
+# [Hubby](https://toddheasley.com/hubby)
 
-<p><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://toddheasley.com/boats/boats-mac-dark.png">
-  <img src="https://toddheasley.com/boats/boats-mac.png">
-</picture></p>
+__A remote control for Bluetooth-enabled bricks__
 
-A friendly, Apple-native companion to [cascobaylines.com](https://cascobaylines.com)
+<p><a href="https://toddheasley.com/hubby"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://toddheasley.com/hubby/hubby-app-alt-dark.png">
+  <img src="https://toddheasley.com/hubby/hubby-app-alt.png">
+</picture></a></p>
 
-[![Download on the App Store](https://toddheasley.com/boats/download.svg)](https://apps.apple.com/app/id1152562893)
+[![$4.99](https://toddheasley.com/hubby/price.svg) ![Download on the App Store](https://toddheasley.com/hubby/download.svg)](https://apps.apple.com/app/id6742765350)
